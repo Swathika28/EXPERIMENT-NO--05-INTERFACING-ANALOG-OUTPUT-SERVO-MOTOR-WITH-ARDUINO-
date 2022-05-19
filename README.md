@@ -67,7 +67,7 @@ CIRCUIT DIAGRAM
 
 
 ### PROGRAM :
-
+```
 #include<Servo.h>
 Servo s1;
 void setup()
@@ -89,7 +89,7 @@ void loop()
   }
 
 }
-
+```
 ### output
 ![output](aaa.png)
 
